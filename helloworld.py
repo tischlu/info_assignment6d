@@ -8,3 +8,6 @@ def baby():
 
 def cat():
     print("meow")
+
+def git_test():
+    print("GITT")
