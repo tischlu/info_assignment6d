@@ -11,3 +11,6 @@ def cat():
 
 def git_test():
     print("GITT")
+
+def troll():
+    print("hohoho")
